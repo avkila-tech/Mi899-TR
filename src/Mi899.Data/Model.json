@@ -3804,7 +3804,7 @@
     {
       "Id": "machinist-x99-v9s.mi8.s3tt.705050.rom",
       "Name": "Stock Machinist X99-V9S, Mi8, TU PEI -70/50/50mv",
-      "MotherboardIds": [ "machinist-x99-v9s", "machinist-x99-xd3" ],
+      "MotherboardIds": [ "machinist-x99-v9s" ],
       "FileName": "Bioses/machinist-x99-v9s.mi8.s3tt.705050.rom.zip",
       "DownloadUrl": "https://github.com/miyconst/Mi899/raw/master/src/Mi899.Data/Bioses/machinist-x99-v9s.mi8.s3tt.705050.rom.zip",
       "Description": "G79K 0.10 x64",
